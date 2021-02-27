@@ -1,4 +1,4 @@
-name: 'WPS daily check in'
+name: 'WPSDailyCheckIn'
 
 on:
   push:
