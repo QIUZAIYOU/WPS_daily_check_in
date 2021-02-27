@@ -1,4 +1,4 @@
-# WPS_daily_~~check_in~~_invite ![邀请](https://github.com/QIUZAIYOU/WPS_daily_check_in/workflows/%E7%AD%BE%E5%88%B0/badge.svg)
+# WPS_daily_~~check_in~~_invite ![邀请](https://github.com/QIUZAIYOU/WPS_daily_check_in/workflows/invite/badge.svg)
 
 配合 WPS 打卡活动，完成每日 10 人邀请任务。
 
