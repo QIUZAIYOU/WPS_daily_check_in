@@ -16,4 +16,3 @@ try:
     r = s.post(answer, cookies = {'wps_sid': wps_sid}, data = data)
 except:
     print('没有配置SID，如需积分签到，请到 settings->secrets 中配置 WPS_SID')
-
